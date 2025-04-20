@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="category_array">
+        <item> for men</item>
+        <item> for women</item>
+        <item>for kids</item>
+    </string-array>
+    <string-array name="size_array">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+    </string-array>
+
+
+    <string name="app_name">MyStore</string>
+    <string name="find_a_type_of_clothing">Find a type of clothing</string>
+</resources>
